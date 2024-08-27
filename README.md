@@ -1,1 +1,1 @@
-Starts to practice problem solving on sites like CodeWars, HackerRank and Leetcode
+Preparing for interviews using Python, SQL
